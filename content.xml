@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Film>
+	<FilmKiemHiep text = "Phim Lẻ">
+		<Film name = "Mỹ Nhân Kế" note = "">
+			http://www.youtube.com/watch?v=b_XZLOE_nm8
+		</Film>
+		<Film name = "Scandal" note = "">
+			http://www.youtube.com/watch?v=SCtCRBDs8aE
+		</Film>
+		<Film name = "Hot Boy Nổi Loạn - Câu Chuyện Về Thằng Cười, Cô Gái Điếm Và Con Vịt" note = "">
+			http://www.youtube.com/watch?v=3e2BbtEZl6Y
+		</Film>
+		<Film name = "Cưới Ngay Kẻo Lỡ" note = "">
+			http://www.youtube.com/watch?v=k0MjPIn470s
+		</Film>
+		<Film name = "Cô Dâu Đại Chiến" note = "">
+			http://www.youtube.com/watch?v=66TznohfTAM
+		</Film>
+		<Film name = "Khi Yêu Đừng Quay Đầu Lại" note = "">
+			http://www.youtube.com/watch?v=IDXCLC3iZwA
+		</Film>
+		<Film name = "Những Nụ Hôn Rực Rỡ" note = "">
+			http://www.youtube.com/watch?v=leH0HQy9l_M
+		</Film>
+		<Film name = "Để Mai Tính" note = "">
+			http://www.youtube.com/watch?v=C7IvFijFlwA
+		</Film>
+		<Film name = "Vũ Điệu Đường Cong" note = "">
+			http://www.youtube.com/watch?v=FfdZO_fLJKk
+		</Film>
+		<Film name = "Đẹp từng centimet" note = "">
+			http://www.youtube.com/watch?v=E0zh9JaV8Ck
+		</Film>
+		<Film name = "Giao Lộ Định Mệnh" note = "">
+			http://www.youtube.com/watch?v=4o52C5-uQSw
+		</Film>
+		<Film name = "Cánh đồng bất tận" note = "">
+			http://www.youtube.com/watch?v=H59S9bzZ53w
+		</Film>
+		<Film name = "Áo Lụa Hà Đông" note = "">
+			http://www.youtube.com/watch?v=fEtDXoqfYrY
+		</Film>
+		<Film name = "Cột Mốc 23" note = "">
+			http://www.youtube.com/watch?v=Mh3t7LzNtkc
+		</Film>
+		<Film name = "Bẫy rồng" note = "">
+			http://www.youtube.com/watch?v=PKeeVqB_l3s
+		</Film>
+		<Film name = "Dòng Máu Anh Hùng" note = "">
+			http://www.youtube.com/watch?v=cD-c8G9fup8
+		</Film>
+		<Film name = "Bi Ơi Đừng Sợ" note = "">
+			http://www.youtube.com/watch?v=A8moubgM2Uo
+		</Film>
+		<Film name = "Giải cứu thần chết" note = "">
+			http://www.youtube.com/watch?v=JcpKb8TgCg0
+		</Film>
+		<Film name = "Mùa hè chiều thẳng đứng" note = "">
+			http://www.youtube.com/watch?v=EsoCijtAYbY
+		</Film>
+		<Film name = "Chuyện cuộc đời" note = "">
+			http://www.youtube.com/watch?v=Iu8dktmBMw4
+		</Film>
+		<Film name = "Thăng bằng" note = "">
+			http://www.youtube.com/watch?v=YQQkNXXMeSY
+		</Film>
+		<Film name = "Mùa Đu Đủ Xanh" note = "">
+			http://www.youtube.com/watch?v=pNlp_0sSAwA
+		</Film>
+		<Film name = "Hoa ban đỏ" note = "">
+			http://www.youtube.com/watch?v=6utRRXL_X48
+		</Film>
+		<Film name = "Tiếng vĩ cầm ở Mỹ Lai" note = "">
+			http://www.youtube.com/watch?v=rSndeSYBmBE
+		</Film>
+		<Film name = "Phim Ba mùa" note = "">
+			http://www.youtube.com/watch?v=6yDcC4WQfMI
+		</Film>
+	</FilmKiemHiep>
+	<FilmHinhSu text = "Phim Bộ">
+		<Film name = "Trò Đời" note = "">
+			http://www.youtube.com/playlist?list=PLg_i-sYSHBwHf4MdeQLH5xgXS4cpB0MGI
+		</Film>
+		<Film name = "Chạm Tay Vào Nỗi Nhớ" note = "">
+			http://www.youtube.com/watch?v=bPkzEHFYsz8&list=PLg_i-sYSHBwFaxTsqR2NGpy3TtdIZXpY8
+		</Film>
+		<Film name = "Sát Thủ Online" note = "">
+			http://www.youtube.com/watch?v=ywHwNL5IKkE&list=PLg_i-sYSHBwEbgvMhNiPgNoybEZ5LGEcK
+		</Film>
+		<Film name = "Gái Già Xì Tin" note = "">
+			http://www.youtube.com/watch?v=7neag2prpFM&list=PLg_i-sYSHBwH6Nx6od8hEnXXQJwgX_w9g
+		</Film>
+		<Film name = "Làng Ma 10 Năm Sau" note = "">
+			http://www.youtube.com/watch?v=CyD6_0Bc0nA&list=PLg_i-sYSHBwEbPb3SCiNPsqRIFtU7vhB9
+		</Film>
+		<Film name = "Khi Yêu Đừng Hỏi Tại Sao" note = "">
+			http://www.youtube.com/watch?v=PnyVJu1Avs8&list=PL2DMQjcOKce9m_NKZ3gyWT28E_NYtF_8h
+		</Film>
+		<Film name = "Váy Hồng Tầng 24" note = "">
+			http://www.youtube.com/watch?v=9qFI9HXCtRg&list=PLUjdy_iUjO1m8nQscV6T-ILmR7IRbAVxr
+		</Film>
+		<Film name = "Giọt Nước Rơi" note = "">
+			http://www.youtube.com/watch?v=2sSXbPdPYfk&list=PLay45sArAcWMU2PwdMsN_1FRqVCoMbkYe
+		</Film>
+		<Film name = "Hoa nở trái mùa" note = "">
+			http://www.youtube.com/watch?v=THNUKS3kFGQ&list=PLTDw1XgwFk1OerIqpp_k5uUdYCsLr3EX8
+		</Film>
+		<Film name = "Thái Sư Trần Thủ Độ" note = "">
+			http://www.youtube.com/watch?v=ROwXVE4kd5U&list=PL_kn8U6VDO_znKL_ZXeiJSm25uN_OsT95
+		</Film>
+		<Film name = "Bí Mật Tam Giác Vàng" note = "">
+			http://www.youtube.com/watch?v=YZy3zY7oFRM&list=PLzuCNReCWWKBILR4_xbsziDbrwxXyBXfY
+		</Film>
+		<Film name = "Tình Yêu Không Hẹn Trước" note = "">
+			http://www.youtube.com/watch?v=LQ91P9k7eok&list=PLHkgI7YuTPYPjYPvzIVOQuVrdMqfkTcUD
+		</Film>
+		<Film name = "Đất và người" note = "">
+			http://www.youtube.com/watch?v=561y0VqeVZY&list=PLg_i-sYSHBwHBIx23Srasy8x5qODW2okH
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Đầm lày bạc" note = "">
+			http://www.youtube.com/watch?v=h3rWP-rBkcI&list=PL4EC24546950E2C84
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Cổ vật" note = "">
+			http://www.youtube.com/watch?v=-sXeZ3aWle4&list=PLiUjBsmh9dhuyhxUNrHSX9t4XHNhnOctH
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Ngôi Biệt Thự Màu Tro Lạnh" note = "">
+			http://www.youtube.com/watch?v=2w535RKAtg8&list=PL2C6C49B426CB4550
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Cuồng phong" note = "">
+			http://www.youtube.com/watch?v=QnfktBe7xkE&list=PLg_i-sYSHBwHelnY1D7y55ukyczqzYOLi
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Phía sau một cái chết" note = "">
+			http://www.youtube.com/watch?v=Xg9yy7Ximmw&list=PLv69mSDioTDbpZOBW3jCKHLmIwmbPk147
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Chuyên án chưa kết thúc" note = "">
+			http://www.youtube.com/watch?v=JM1Fs_DfycI&list=PLiUjBsmh9dhvD_xZQSU_oqbRpSGOVXw6W
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Cổ Cồn Trắng" note = "">
+			http://www.youtube.com/watch?v=jMElrwolINM&list=PLfdy96s47RcDYFYbJDVr_sE6x4n2J0SVt
+		</Film>
+		<Film name = "Những nẻo đường phù sa" note = "">
+			http://www.youtube.com/watch?v=5MsxFxzTi34&list=PLg_i-sYSHBwGYuiwK6nQrh1RNpHF0AQQY
+		</Film>
+		<Film name = "Luật Đời" note = "">
+			http://www.youtube.com/watch?v=YycD8NTTevY&list=PLg_i-sYSHBwEl6fTePimP5BzGaPf1rxCm
+		</Film>
+		<Film name = "Vòng tròn cạm bẫy" note = "">
+			http://www.youtube.com/watch?v=qeglbCkZiJ0&list=PL8Me2tnfHdT7qcYBETLKuGWZF321ggAbj
+		</Film>
+		<Film name = "Thiên sứ... 99" note = "">
+			http://www.youtube.com/watch?v=XhD7ki-HdeM&list=PLC8B0B6846F77657D
+		</Film>
+		<Film name = "Cho một tình yêu" note = "">
+			http://www.youtube.com/watch?v=2PVO7toFZ_A&list=PL15F24C795116BC32
+		</Film>
+		<Film name = "Cá Rô Em Yêu Anh" note = "">
+			http://www.youtube.com/watch?v=CsgtdrmXMGY&list=PLsHob6F9Lg1Yx6B-4wC6ACfoTa4RvEXdc
+		</Film>
+		<Film name = "Đi qua ngày biển động" note = "">
+			http://www.youtube.com/watch?v=HclArcBc5MU&list=PLWsEM1nL9RyHFQ-2gbyKhuWjAavOYxniW
+		</Film>
+		<Film name = "Lều chõng" note = "">
+			http://www.youtube.com/watch?v=MTdk9e3aeXg&list=PLkgPomQ0WzXqglfcWPKWvlyvi4HrlVvrp
+		</Film>
+		<Film name = "Cô nàng bất đắc dĩ" note = "">
+			http://www.youtube.com/watch?v=JwOqO4OV3Z4&list=PL2ACAD74FAD641276
+		</Film>
+		<Film name = "Nhiệm vụ đặc biệt" note = "">
+			http://www.youtube.com/watch?v=WXbgayhRZDc&list=PLLPdqk_xv92Q2sDo8nx0tFrZZrEx7TMxI
+		</Film>
+		<Film name = "Bỗng dưng muốn khóc" note = "">
+			http://www.youtube.com/watch?v=j0pT8F_M2jg&list=PLE4047D9BF4D3D9C1
+		</Film>
+		<Film name = "Cô gái xấu xí" note = "">
+			http://www.youtube.com/watch?v=Siy7HhYyvGI&list=PL1WO8Y1rO3ZjXU-9wJdfeDKLH3OurD3M8
+		</Film>
+		<Film name = "Bước nhảy xi-tin" note = "">
+			http://www.youtube.com/watch?v=XMUh61IC6eA&list=PLfeqnEZHt3mujHQY-2wy-EXInnSLFo_S2
+		</Film>
+		<Film name = "Cầu vồng tình yêu" note = "">
+			http://www.youtube.com/watch?v=nH6us186uus&list=PLEFCC372A2E017950
+		</Film>
+		<Film name = "Nhà có nhiều cửa sổ" note = "">
+			http://www.youtube.com/watch?v=NJvYYXqCrBY&list=PLC0C7FE1C775C54F8
+		</Film>
+		<Film name = "Bà nội không ăn pizza" note = "">
+			http://www.youtube.com/watch?v=v2S3jufrM-o&list=PLRHgQrPYpK3tfrWIjx-yW76JZ5C0mCCBo
+		</Film>
+		<Film name = "Hai Gia Đình" note = "">
+			http://www.youtube.com/watch?v=Bc6W0SlY1zw&list=PL1gX03i3KPPzsbs-3gbycy0AeC68CiV06
+		</Film>
+		<Film name = "Khi đàn ông góa vợ bật khóc" note = "">
+			http://www.youtube.com/watch?v=8NskW3q8M0s&list=PLemgXpm3neb2QUh3GcXBhJKDjw6HYt3EF
+		</Film>
+		<Film name = "Bộ tứ 10A8" note = "">
+			http://www.youtube.com/watch?v=dKUUQi7xMRU&list=PL72B231C7C3C1F538
+		</Film>
+		<Film name = "Camera Công Sở" note = "">
+			http://www.youtube.com/watch?v=BlkFoGSPUnY&list=PL4FB493E7367B6EEC
+		</Film>
+		<Film name = "Những người độc thân vui vẻ" note = "">
+			http://www.youtube.com/watch?v=M8OmuHGJlT4&list=PLltmfmvjiu_YZ2RIbANoPAfv-manofGdZ
+		</Film>
+		<Film name = "Blog Nàng Dâu" note = "">
+			http://www.youtube.com/watch?v=sLMkIhb5rZ8&list=PLSNN1Yy2Yy2eiuM01_h4cFcAGR708hORj
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Bản Di Chúc Bí Ẩn" note = "">
+			http://www.youtube.com/watch?v=0ROTdtF9MGI&list=PLUX0E10clff96QmLOlRbF2l2FkNxvk065
+		</Film>
+		<Film name = "[Cảnh Sát Hình Sự] Từ đen đến trắng" note = "">
+			http://www.youtube.com/watch?v=spmLjoqBaAY&list=PLqC2-8MNq-MVOer_IpK5Y6dgyw-9bV8iU
+		</Film>
+		<Film name = "CẢNH SÁT HÌNH SỰ: Bí mật hồ hang rắn" note = "">
+		    http://www.youtube.com/watch?v=3Mgl03CWiLQ&list=PLg_i-sYSHBwEhHxBCFCv2Zog6eYH_Zs2H
+		</Film>
+		<Film name = "CẢNH SÁT HÌNH SỰ: Cái chết con thiên nga" note = "">
+			http://www.youtube.com/watch?v=J32lB7oB5_8&list=PLg_i-sYSHBwEZJ2M6paNWY6SCWg8ose-V
+		</Film>
+		<Film name = "CẢNH SÁT HÌNH SỰ: Hãy về với em" note = "">
+			http://www.youtube.com/watch?v=IAi47KuTNfE&list=PL8SxI9D79jM4kzyVw0Mysxbz9m5V8hO9Y
+		</Film>
+		<Film name = "CẢNH SÁT HÌNH SỰ: Kẻ giả danh" note = "">
+			http://www.youtube.com/watch?v=Z9xD-sK99wA&list=PL8SxI9D79jM5ZuRw8e1hCKRbsytQmeqIZ
+		</Film>
+		<Film name = "CẢNH SÁT HÌNH SỰ: Truy đuổi tội phạm" note = "">
+			http://www.youtube.com/watch?v=lrKjLLSJFKs&list=PLg_i-sYSHBwGiSHIfxSnUSVlFf1kHC-ld
+		</Film>
+		<Film name = "Chuyện tình đảo ngọc" note = "">
+			http://www.youtube.com/watch?v=KM5iJ2q_Ea0&list=PLTZOSxt9tAljd_qgi4OVD8IF_QyPkEN7F
+		</Film>
+		<Film name = "Lời nguyền sapphire" note = "">
+			http://www.youtube.com/watch?v=CcalH2bw7LM&list=PL7ID391afDfsVPRTTboLtn70rmjktteD0
+		</Film>
+		<Film name = "Chuyện tình đảo cát" note = "">
+			http://www.youtube.com/watch?v=0fsuZcEq1BI&list=PLiUjBsmh9dhsXjNRY7AdtixTgngk9VnK7
+		</Film>
+		<Film name = "Vị tướng tình báo và hai bà vợ" note = "">
+			http://www.youtube.com/watch?v=waRDpA8SuAs&list=PLiUjBsmh9dhsdpI4mwxroQPHWaUJHRnF4
+		</Film>
+		<Film name = "Chuyện học đường" note = "2000">
+			http://www.youtube.com/watch?v=fEVlaFxq29Y&list=PLg_i-sYSHBwGH0lR5rUMr7XYas1-ah0KE
+		</Film>
+		<Film name = "Ngọt ngào và man trá" note = "">
+			http://www.youtube.com/watch?v=YC6klyznz3Y&list=PLqO2ivqWZmb7GbQlaJOA5LuKgT_VDjI9h
+		</Film>
+		<Film name = "Người đàn bà yếu đuối" note = "">
+			http://www.youtube.com/watch?v=zKH9eV3oOfo&list=PLqg33aVHVipNzLxW9DZxtFxd9KIvH5Pmh
+		</Film>
+		<Film name = "Hoa Hồng" note = "">
+			http://www.youtube.com/watch?v=Rg_raFbGKrs&list=PLg_i-sYSHBwF7LZly_02dugTapWCRWJ8q
+		</Film>
+	</FilmHinhSu>
+</Film>
