@@ -2,28 +2,25 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Mỹ Nhân Kế" note = "">
-			http://www.youtube.com/watch?v=b_XZLOE_nm8
-		</Film>
-		<Film name = "Scandal" note = "">
+		<Film name = "Scandal" note = "" image = "images/scandal.jpg">
 			http://www.youtube.com/watch?v=SCtCRBDs8aE
 		</Film>
-		<Film name = "Hot Boy Nổi Loạn - Câu Chuyện Về Thằng Cười, Cô Gái Điếm Và Con Vịt" note = "">
+		<Film name = "Hot Boy Nổi Loạn - Câu Chuyện Về Thằng Cười, Cô Gái Điếm Và Con Vịt" note = "" image = "images/hotboynoiloan.jpg">
 			http://www.youtube.com/watch?v=3e2BbtEZl6Y
 		</Film>
-		<Film name = "Cưới Ngay Kẻo Lỡ" note = "">
+		<Film name = "Cưới Ngay Kẻo Lỡ" note = "" image = "images/cuoingaykeolo.jpg">
 			http://www.youtube.com/watch?v=k0MjPIn470s
 		</Film>
-		<Film name = "Cô Dâu Đại Chiến" note = "">
+		<Film name = "Cô Dâu Đại Chiến" note = "" image = "images/codaudaichien.jpg">
 			http://www.youtube.com/watch?v=66TznohfTAM
 		</Film>
-		<Film name = "Khi Yêu Đừng Quay Đầu Lại" note = "">
+		<Film name = "Khi Yêu Đừng Quay Đầu Lại" note = "" image = "images/khiyeudungquaydaulai.jpg">
 			http://www.youtube.com/watch?v=IDXCLC3iZwA
 		</Film>
-		<Film name = "Những Nụ Hôn Rực Rỡ" note = "">
+		<Film name = "Những Nụ Hôn Rực Rỡ" note = "" image = "images/nhungnuhonrucro.jpg">
 			http://www.youtube.com/watch?v=leH0HQy9l_M
 		</Film>
-		<Film name = "Để Mai Tính" note = "">
+		<Film name = "Để Mai Tính" note = "" image = "images/scandal.jpg">
 			http://www.youtube.com/watch?v=C7IvFijFlwA
 		</Film>
 		<Film name = "Vũ Điệu Đường Cong" note = "">
@@ -49,6 +46,9 @@
 		</Film>
 		<Film name = "Dòng Máu Anh Hùng" note = "">
 			http://www.youtube.com/watch?v=cD-c8G9fup8
+		</Film>
+		<Film name = "Mỹ Nhân Kế" note = "">
+			http://www.youtube.com/watch?v=MlKT5yDC_Qk
 		</Film>
 		<Film name = "Bi Ơi Đừng Sợ" note = "">
 			http://www.youtube.com/watch?v=A8moubgM2Uo
