@@ -2,7 +2,16 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Scandal" note = "" image = "images/scandal.jpg">
+		<Film name = "Mèo nào cắn mửu nào" note = "Hài Tết 2014">
+			http://www.youtube.com/watch?v=1wAioRvrl3U
+		</Film>
+      <Film name = "Đại Gia Chân Đất 4" note = "Hài Tết 2014">
+			http://www.youtube.com/watch?v=p7Y_SVz6hnY&list=PL1Zu5XZBhevKV45mRW8Dw2tWeBRjrclWi
+		</Film>
+      <Film name = "Vua Tán Gái Thì Hại Thân" note = "Hài Tết 2014">
+			http://www.youtube.com/watch?v=omifqJqE070
+		</Film>
+    <Film name = "Scandal" note = "" image = "images/scandal.jpg">
 			http://www.youtube.com/watch?v=SCtCRBDs8aE
 		</Film>
     <Film name = "XUÂN HINH 2014 - Tết để yêu thương" note = "">
