@@ -2,7 +2,13 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Mèo nào cắn mửu nào" note = "Hài Tết 2014">
+		<Film name = "Sài Gòn Yo" note = "Saigon Electric">
+			http://www.youtube.com/watch?v=YuT2s49dN7U
+		</Film>
+    <Film name = "Vũ Điệu Đam Mê" note = "Saigon Electric">
+			http://www.youtube.com/watch?v=JgZo3ITRLLI
+		</Film>  
+      <Film name = "Mèo nào cắn mửu nào" note = "Hài Tết 2014">
 			http://www.youtube.com/watch?v=1wAioRvrl3U
 		</Film>
       <Film name = "CHÔN NHỜI" note = "Hài Tết 2014">
