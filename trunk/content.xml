@@ -181,7 +181,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Chỉ Có Thể Là Yêu" note = "">
+		<Film name = "Hạnh Phúc Mong Manh" note = "">
+			http://www.youtube.com/watch?v=60bK6OMmY7U&list=PL81LZAammvcdi6Xgyauicj7qt__aa3ajc
+		</Film>
+      <Film name = "Chỉ Có Thể Là Yêu" note = "">
 			http://www.youtube.com/watch?v=75aBMrjDFKw&list=PLg_i-sYSHBwEot5ysmzgTIt1adfP6bBrO
 		</Film>
       <Film name = "Chạm Tay Vào Nỗi Nhớ" note = "">
