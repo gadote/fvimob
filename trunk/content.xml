@@ -190,7 +190,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Hạnh Phúc Mong Manh" note = "">
+		<Film name = "Sông Dài" note = "">
+			http://www.youtube.com/watch?v=VPDzqly7pQ8&list=PL0825BD4FCEFA88B9
+		</Film>
+      <Film name = "Hạnh Phúc Mong Manh" note = "">
 			http://www.youtube.com/watch?v=60bK6OMmY7U&list=PL81LZAammvcdi6Xgyauicj7qt__aa3ajc
 		</Film>
       <Film name = "Ba đám cưới một đời chồng" note = "">
