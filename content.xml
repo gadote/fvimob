@@ -2,7 +2,16 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Sài Gòn Yo" note = "Saigon Electric">
+		<Film name = "Không Hề Biết Giận" note = "">
+			http://www.youtube.com/watch?v=uwG5_nZB11w
+		</Film>
+    <Film name = "Trẻ con ko được ăn thịt chó" note = "">
+			http://www.youtube.com/watch?v=L8qfTrSVqmo
+		</Film>  
+      <Film name = "Thầy dởm" note = "">
+			http://www.youtube.com/watch?v=RfjFbVgi5X8
+		</Film>
+      <Film name = "Sài Gòn Yo" note = "Saigon Electric">
 			http://www.youtube.com/watch?v=YuT2s49dN7U
 		</Film>
       <Film name = "Xích Lô" note = "Saigon Electric">
