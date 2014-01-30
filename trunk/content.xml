@@ -2,7 +2,10 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Không Hề Biết Giận" note = "">
+		<Film name = "Đẻ mướn" note = "">
+			http://www.youtube.com/watch?v=Qj1DYWNoZ5M
+		</Film>
+      <Film name = "Không Hề Biết Giận" note = "">
 			http://www.youtube.com/watch?v=uwG5_nZB11w
 		</Film>
     <Film name = "Trẻ con ko được ăn thịt chó" note = "">
