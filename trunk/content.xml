@@ -199,7 +199,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "KHÁT VỌNG THƯỢNG LƯU" note = "">
+		<Film name = "Biệt Động Sài Gòn" note = "">
+			http://www.youtube.com/watch?v=7DYFRl5BYu8&list=PL7D82E034C3722E6F
+		</Film>
+      <Film name = "KHÁT VỌNG THƯỢNG LƯU" note = "">
 			http://www.youtube.com/watch?v=rtKs0OmfPP8&list=PLtfpYaKRA18d0aU-H9AnaqpFB-PwBPsXm
 		</Film>
       <Film name = "Sông Dài" note = "">
