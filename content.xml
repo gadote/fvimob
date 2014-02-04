@@ -199,7 +199,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Kiều Nữ Và Đại Gia" note = "">
+		<Film name = "Cạm bẫy" note = "">
+			http://www.youtube.com/watch?v=SRjtzLjf_mw&list=PLfLWsZfm3MEAFJbiht_60WKYaLbByioKr
+		</Film>
+      <Film name = "Kiều Nữ Và Đại Gia" note = "">
 			http://www.youtube.com/watch?v=iTyqvqeDCrs&list=PLVnVFb04rt-KcbrCbvPAQfYyceWaExpzr
 		</Film>
       <Film name = "Yêu trong thù hận" note = "">
