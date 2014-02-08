@@ -2,7 +2,10 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Táo Quân 2014" note = "">
+		<Film name = "Tu Hú Lạc Bầy" note = "">
+			http://www.youtube.com/watch?v=c9eAM6Z2myw
+		</Film>
+      <Film name = "Táo Quân 2014" note = "">
 			https://www.youtube.com/watch?v=OhkMd6UHh7g
 		</Film>
       <Film name = "Thiên Mệnh Anh Hùng" note = "">
