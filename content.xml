@@ -214,7 +214,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Cạm bẫy" note = "">
+		<Film name = "Gia Đình Là Số 1" note = "">
+			http://www.youtube.com/watch?v=-A7RJgVCRRk&list=PLDhAAjy0sTnLpB2ActlrKS1mvpZn4xtTK
+		</Film>
+      <Film name = "Cạm bẫy" note = "">
 			http://www.youtube.com/watch?v=SRjtzLjf_mw&list=PLfLWsZfm3MEAFJbiht_60WKYaLbByioKr
 		</Film>
       <Film name = "Kiều Nữ Và Đại Gia" note = "">
