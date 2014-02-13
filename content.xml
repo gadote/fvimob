@@ -214,7 +214,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Ngày Ta Yêu Nhau" note = "">
+		<Film name = "MÙA SEN CẠN" note = "">
+			http://www.youtube.com/watch?v=WIPZGVclyCI&list=PLBIEwrttzHYS3zCS_dyy1Ssb6pknMPk0z
+		</Film>
+      <Film name = "Ngày Ta Yêu Nhau" note = "">
 			http://www.youtube.com/watch?v=iCsmviYd8Ho&list=PLHU6YVJZOATJgXbYcW6QmZznHof8fvaHM
 		</Film>
       <Film name = "Gia Đình Là Số 1" note = "">
