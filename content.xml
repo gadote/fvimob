@@ -229,7 +229,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Vượt qua bóng đêm" note = "">
+		<Film name = "Ma làng" note = "">
+			http://www.youtube.com/watch?v=d2ftty71zIw&list=PL61C1050EF8F021B4
+		</Film>
+      <Film name = "Vượt qua bóng đêm" note = "">
 			http://www.youtube.com/watch?v=RQTABty2kjs&list=PL68EE6C1EBF8AEA4E
 		</Film>
       <Film name = "MÙA SEN CẠN" note = "">
