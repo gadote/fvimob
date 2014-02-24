@@ -2,7 +2,13 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Gia sư nữ quái" note = "">
+		<Film name = "Rừng đen - Black Forest" note = "">
+			http://www.youtube.com/watch?v=idcNnLd7qe8
+		</Film>
+      <Film name = "Thần Bài Cào" note = "">
+			http://www.youtube.com/watch?v=U9RQVXzMR44
+		</Film>
+      <Film name = "Gia sư nữ quái" note = "">
 			http://www.youtube.com/watch?v=XtnxK4HX0Sw
 		</Film>
       <Film name = "[Full] Hoa hậu Việt Nam 2012 (1/2)" note = "">
