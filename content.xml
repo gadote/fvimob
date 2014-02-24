@@ -247,7 +247,10 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-		<Film name = "Mùa hè sôi động" note = "">
+                <Film name = "Bạn Đời (2012)" note = "">
+                        http://www.youtube.com/watch?v=NqCSFckswpE&list=PLu_mWLLDQed9LfHG9uTcVptHqaG25DFxz
+                </Film>
+      <Film name = "Mùa hè sôi động" note = "">
 			http://www.youtube.com/watch?v=gkRFkgCORC0&list=PL0D67B234B1B1ECB8
 		</Film>
       <Film name = "Tiểu Thư Đi Học" note = "">
