@@ -2,7 +2,10 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-		<Film name = "Rừng đen - Black Forest" note = "">
+                <Film name = "Bạn đời" note = "PHIM CUỐI TUẦN VTV1">
+                        http://www.youtube.com/watch?v=Am5B3GTT1j0
+                </Film>
+      <Film name = "Rừng đen - Black Forest" note = "">
 			http://www.youtube.com/watch?v=idcNnLd7qe8
 		</Film>
       <Film name = "Thần Bài Cào" note = "">
