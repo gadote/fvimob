@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bướm đêm" note = "">
+                        http://www.youtube.com/watch?v=LjkMYUCAg-c
+                </Film>
+                <Film name = "Không Cân Sức" note = "">
+                        http://www.youtube.com/watch?v=19ITaw86Z48
+                </Film>
+                <Film name = "Đen trắng" note = "">
+                        http://www.youtube.com/watch?v=7gTEd1WgdRk
+                </Film>
+                <Film name = "Nắng xuân về" note = "">
+                        http://www.youtube.com/watch?v=Dy0A_AVWpJg
+                </Film>
+                <Film name = "Đào Sen" note = "">
+                        http://www.youtube.com/watch?v=Qte4Qmphi88
+                </Film>
                 <Film name = "Nữ Xế" note = "">
                         http://www.youtube.com/watch?v=tXFv_xnPRmU
                 </Film>
