@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Biển trổ hoa vàng" note = "">
+                        http://www.youtube.com/watch?v=BEaD-ZXhqh4
+                </Film>
+                <Film name = "Giành giật" note = "">
+                        http://www.youtube.com/watch?v=s6ZpF1rgnF0
+                </Film>
+                <Film name = "Trời cho, trò chơi" note = "">
+                        http://www.youtube.com/watch?v=F7gPaXNH-fA
+                </Film>
                 <Film name = "Trái tim bé bỏng" note = "">
                         http://www.youtube.com/watch?v=bgydGbRRP4A&list=PLVJ0cYQVDvOTtpAzC5u8Z92g22neBL7il
                 </Film>
@@ -295,6 +304,15 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "BẪY TÌNH" note = "">
+                        http://www.youtube.com/watch?v=-nM9kkN52xg&list=PL9XlscMBKuWzP-SLpQvfv6bXFY3O9lcZO
+                </Film>
+                <Film name = "Vợ Tôi Là Số 1" note = "">
+                        http://www.youtube.com/watch?v=eu2aGm44OOk&list=PLy0R7-VjBYukWiSIjCbVyD4hC9qpw2ycY
+                </Film>
+                <Film name = "Vực thẳm tình yêu" note = "">
+                        http://www.youtube.com/watch?v=obBMQGGnuwY&list=PLI_P99R-nyUHQFhew4YX_klXIHgX01-h1
+                </Film>
                 <Film name = "Đi Qua Dĩ Vãng" note = "">
                         http://www.youtube.com/watch?v=xnMvTNqWnpU&list=PLay45sArAcWMh_tIs9XOh76JqqIbwnd21
                 </Film>
