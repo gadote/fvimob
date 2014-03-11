@@ -295,6 +295,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Đi Qua Dĩ Vãng" note = "">
+                        http://www.youtube.com/watch?v=xnMvTNqWnpU&list=PLay45sArAcWMh_tIs9XOh76JqqIbwnd21
+                </Film>
                 <Film name = "Heo May Về Qua Phố" note = "">
                         http://www.youtube.com/watch?v=Q-MXaBc6jDM&list=PLAAuYICsIlFI_rnLKFvOKMCarfP1cvpLV
                 </Film>
