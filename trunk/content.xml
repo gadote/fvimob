@@ -304,6 +304,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Cuối đường băng" note = "">
+                        http://www.youtube.com/watch?v=0sjPx6fLdZQ&list=PLDU-ZX_or3aokWuWQiIb-kMj_fvd1XxTB
+                </Film>
                 <Film name = "BẪY TÌNH" note = "">
                         http://www.youtube.com/watch?v=-nM9kkN52xg&list=PL9XlscMBKuWzP-SLpQvfv6bXFY3O9lcZO
                 </Film>
