@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thương nhớ đồng quê" note = "">
+                        http://www.youtube.com/watch?v=JcB9lLyEP2g
+                </Film>
+                <Film name = "Vị Đắng Tình Yêu" note = "">
+                        http://www.youtube.com/watch?v=pmCADnEPk5s
+                </Film>
+                <Film name = "Ngã Ba Đồng Lộc" note = "">
+                        http://www.youtube.com/watch?v=qxdqjfupeMk
+                </Film>
                 <Film name = "Biển trổ hoa vàng" note = "">
                         http://www.youtube.com/watch?v=BEaD-ZXhqh4
                 </Film>
