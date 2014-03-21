@@ -313,6 +313,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Trả Giá" note = "">
+                        http://www.youtube.com/watch?v=06eVJ9osXL0&list=PLlE9zNOz339NOMBX4xuyGDCjLy-6qD4iq
+                </Film>
                 <Film name = "Chủ Tịch Tỉnh" note = "">
                         https://www.youtube.com/watch?v=W49mpSduJZo&list=PLVpm4jKxYwNQosezHwHGkJfNCowoza4Jl
                 </Film>
