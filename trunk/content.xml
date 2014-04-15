@@ -331,6 +331,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Đường Chân Trời" note = "">
+                        https://www.youtube.com/watch?v=bOvWjku7e90&list=PL5t23-meveZKzRGj3egh2ZkSt37J02dqp
+                </Film>
                 <Film name = "VỪA ĐI VỪA KHÓC" note = "">
                         https://www.youtube.com/watch?v=-odVLITV_i0&list=PLWxXFX-HO9K4YFMIaQt66JiZMcKSkVrWX
                 </Film>
