@@ -331,6 +331,12 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Lạc mất linh hồn" note = "">
+                        https://www.youtube.com/watch?v=3Hjk5w1ORYs&list=PLpDL474I-Yv7AvgPC098AqmF1gRkXJ0lJ
+                </Film>
+                <Film name = "Hương phù xa" note = "">
+                        https://www.youtube.com/watch?v=dTPR4XkwAJ0&list=PLegCO6aIziyIS4vSE76yE_IOs_W-rE29g
+                </Film>
                 <Film name = "Bếp hát" note = "">
                         https://www.youtube.com/watch?v=UC6-AeUIAYw&list=PLzAyj3rZQMFkAgZBKfp8H-qvsYrWz1WGo
                 </Film>
