@@ -334,6 +334,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "GỌI GIẤC MƠ VỀ" note = "">
+                        https://www.youtube.com/watch?v=vGC3eGSYCfc&list=PL6M5vZuZStuJGEUgnHKEgLhac1axceSXq
+                </Film>
                 <Film name = "Lạc mất linh hồn" note = "">
                         https://www.youtube.com/watch?v=3Hjk5w1ORYs&list=PLpDL474I-Yv7AvgPC098AqmF1gRkXJ0lJ
                 </Film>
