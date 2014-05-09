@@ -337,6 +337,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Quà Tặng Cuộc Sống" note = "">
+                        https://www.youtube.com/watch?v=3c_kVBqg4tI&list=PLE61BCB5F3F89B27A
+                </Film>
                 <Film name = "5s Online" note = "">
                         https://www.youtube.com/watch?v=iHrdB_tuMK4&list=PLx1wzPIOvNhcGAc88iHq3pYERMeNC8hIv
                 </Film>
