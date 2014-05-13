@@ -340,8 +340,14 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Sai Lầm" note = "">
+                        https://www.youtube.com/watch?v=ingT7C7AZ30&list=PLu_mWLLDQed9zpyCdWdSHeasFch7V_P-s
+                </Film>
                 <Film name = "SẮC ĐẸP VÀ DANH VỌNG" note = "">
                         https://www.youtube.com/watch?v=pqFcvOkQdBI&list=PLc3xilybb8h0iJyplt-jftBjq_Tk6W_x-
+                </Film>
+                <Film name = "Giải mã tình yêu" note = "">
+                        https://www.youtube.com/watch?v=wYBscrOMX00&list=PL81LZAammvcf6Y0Dn6qEpWCKIwVPWUDNo
                 </Film>
                 <Film name = "SÓNG NGẦM" note = "">
                         https://www.youtube.com/watch?v=rD-DjWGc9Fc&list=PLzsQ8uXrU4pgH62AlBXnwfHrQ88Gjxxxe
@@ -351,6 +357,9 @@
                 </Film>
                 <Film name = "Những Ngọn Nến Lung Linh" note = "">
                         https://www.youtube.com/watch?v=OuP7UmH62rI&list=PLyuxwLGSwaiSU_lQYIkW4HlejQwPenHDx
+                </Film>
+                <Film name = "Giải mã tình anh" note = "">
+                        https://www.youtube.com/watch?v=5EhR-FdDNPk&list=PLlgM2js-c1VBTAbmuFWpPfRPEYUzj0B6P
                 </Film>
                 <Film name = "Mưa Đầu Mùa" note = "">
                         https://www.youtube.com/watch?v=CAR0PUiyFxY&list=PLWaGdpiksbFPqpmkXFPcP7ZHs8RBdT9vb
