@@ -340,6 +340,12 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Người Giúp Việc" note = "">
+                        https://www.youtube.com/watch?v=nOpF_CU-i4c&list=PL6liD17N9zgJNj5KOQqFmEGUhaBhiu3gw
+                </Film>
+                <Film name = "Tìm Cha" note = "">
+                        https://www.youtube.com/watch?v=R1bz9Sj-3ys&list=PL6liD17N9zgJYG92uBlf8WsDTnd_eFkWg
+                </Film>
                 <Film name = "Quà Tặng Cuộc Sống" note = "">
                         https://www.youtube.com/watch?v=3c_kVBqg4tI&list=PLE61BCB5F3F89B27A
                 </Film>
