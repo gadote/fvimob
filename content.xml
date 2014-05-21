@@ -340,6 +340,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Lập trình cho trái tim" note = "">
+                        http://www.youtube.com/watch?v=EEHi647LG9w&list=PLA898A481DC159642
+                </Film>
                 <Film name = "Trái Tim Màu Xanh" note = "">
                         https://www.youtube.com/watch?v=PqvRzl2hOdQ&list=PLJRl33fJMzEY5dWtEIIrvQ_sSncrqgsnG
                 </Film>
