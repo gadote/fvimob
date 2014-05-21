@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chiến dịch trái tim bên phải" note = "">
+                        https://www.youtube.com/watch?v=5Tpy8fXlAI4
+                </Film>
                 <Film name = "Bụi Đời Chợ Lớn" note = "">
                         https://www.youtube.com/watch?v=veFTnfXAbec
                 </Film>
@@ -340,6 +343,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Chàng Trai Không Biết Ghen" note = "">
+                        https://www.youtube.com/watch?v=rHQjGtIsABc&list=PL70IY5IjUnZZQMtMY6xczJ_Fd23NKwl-f
+                </Film>
                 <Film name = "Lập trình cho trái tim" note = "">
                         http://www.youtube.com/watch?v=EEHi647LG9w&list=PLA898A481DC159642
                 </Film>
