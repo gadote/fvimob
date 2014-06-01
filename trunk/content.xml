@@ -346,6 +346,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Đồng Tiền Đen" note = "">
+                        https://www.youtube.com/watch?v=OgKmNvYF9KY&list=PL8X4a8cXSYxV0zyeCf3YTQYNC2eMxbWEh
+                </Film>
                 <Film name = "Hành Trình Hôn Nhân" note = "">
                         https://www.youtube.com/watch?v=ziag_MQjhXM&list=PL0F98iOnwqaNWIZ1-R66QhPbikB1T8FPt
                 </Film>
