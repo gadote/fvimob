@@ -349,6 +349,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Hoa đồng nội" note = "">
+                        https://www.youtube.com/watch?v=2vSFlYOdWv8&list=PLgIJarMyCbty7Uhr05l_dcV7fSwcVmmGa
+                </Film>
                 <Film name = "Dốc sinh tồn" note = "">
                         https://www.youtube.com/watch?v=wA4LOh2quvk&list=PL609E4FC779844CD1
                 </Film>
