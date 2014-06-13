@@ -349,6 +349,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Yêu không dễ" note = "">
+                        https://www.youtube.com/watch?v=-jLEcBzv1v0&list=PLtR50_NoOR336UbFaHnBb7uT90loOKdcm
+                </Film>
                 <Film name = "Lời Thế Danh Dự" note = "">
                         https://www.youtube.com/watch?v=-geeEuH645E&list=PL7ID391afDfvIuFmDCgXbFhWVnbm9aUDO
                 </Film>
