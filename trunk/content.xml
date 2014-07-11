@@ -355,6 +355,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Mặt nạ hoàn hảo" note = "">
+                        https://www.youtube.com/watch?v=xtJwMAqfz14&list=PLfdy96s47RcAK6O7M81XTzJtNEsAhwV_6
+                </Film>
                 <Film name = "Đường Hoang Lạc Bước" note = "">
                         https://www.youtube.com/watch?v=xSWlCHDh3Pk&list=PLqP6PnmMitwzOJCKHdEbXFoto9eHGaitg
                 </Film>
