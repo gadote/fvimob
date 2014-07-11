@@ -355,6 +355,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Vòng tròn 12 số" note = "">
+                        https://www.youtube.com/watch?v=XaBxtz29pjo&list=PL8FT98hnQUifSQGSNoXYzch6JOS_Umznw
+                </Film>
                 <Film name = "Mặt nạ hoàn hảo" note = "">
                         https://www.youtube.com/watch?v=xtJwMAqfz14&list=PLfdy96s47RcAK6O7M81XTzJtNEsAhwV_6
                 </Film>
