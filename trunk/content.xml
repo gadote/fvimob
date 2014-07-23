@@ -355,6 +355,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "BỤI ĐỜI" note = "">
+                        https://www.youtube.com/watch?v=yPkM0ztMBIQ&list=PLdWdHzK34OCfk3qAm39285XzVgEPVgSDQ
+                </Film>
                 <Film name = "Dấu chân du mục" note = "">
                         https://www.youtube.com/watch?v=GKqcoJSJ0jU&list=PLsbsINwOr6pJrbpqiPyUOja5aX6I3s-9R
                 </Film>
