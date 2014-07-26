@@ -358,6 +358,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Kẻ Bội Tình" note = "">
+                        https://www.youtube.com/watch?v=BNdvE2WZxgU&list=PL0F98iOnwqaOhtGaEKDZII8Udki_Ax1Gq
+                </Film>
                 <Film name = "Vàng Trắng" note = "">
                         https://www.youtube.com/watch?v=lpbeYt7HoQ8&list=PL34wpnj7mJNnincNmTWBTOtidtFb-nrVb
                 </Film>
