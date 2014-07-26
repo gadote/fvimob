@@ -355,6 +355,15 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Lớp học vui nhộn" note = "Yeah1TV">
+                        https://www.youtube.com/watch?v=GVDgQpxu4CA&list=PLUi4iR_mv8LRz2dgKvbaVCUJVrn1CVJKE
+                </Film>
+                <Film name = "TÌM LẠI CHÍNH MÌNH" note = "">
+                        https://www.youtube.com/watch?v=Zn0iVMyR95k&list=PLMU6jd1f_RFs2-FMrXs-L3UF4sJplPXNA
+                </Film>
+                <Film name = "Hoa phù dung" note = "">
+                        https://www.youtube.com/watch?v=wlEKIgVeDjg&list=PLFF9978E1256BAA66
+                </Film>
                 <Film name = "Mặt nạ da người" note = "">
                         https://www.youtube.com/watch?v=nTF8JuEHB5k&list=PLv2KrYsT45uQDFdSJRWSsgBaoh8sNlaNG
                 </Film>
