@@ -358,6 +358,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Khi Ta Nói Dối" note = "">
+                        https://www.youtube.com/watch?v=VRLqU01SfrM&list=PLz1eiKYQRNlr-abOx6hUWCdS76VMj0d_C
+                </Film>
                 <Film name = "Con thuyền số phận" note = "">
                         https://www.youtube.com/watch?v=Pcg1kzYLcBw&list=PLBj7NCj1N5nrC8Wl3rmpX8fAPWo42OHWG
                 </Film>
