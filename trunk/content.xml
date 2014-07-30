@@ -358,6 +358,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Sóng ngầm" note = "">
+                        https://www.youtube.com/watch?v=G1czdSU9zI4&list=PLYYTUxaE9mEnPKDgrcsZ6qkk9S5EXeoEV
+                </Film>
                 <Film name = "Tín Hiệu Tình Yêu" note = "">
                         https://www.youtube.com/watch?v=egHl9Ctj2lc&list=PLULWXmOl_dSPKB5HidlpFVgvLy7hi42U5
                 </Film>
