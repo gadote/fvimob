@@ -358,6 +358,12 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Oan Nghiệt" note = "">
+                        https://www.youtube.com/watch?v=71Bg24DEBD8&list=PLPdlKVnzUzX7WI_Y9JunrjbhHqjZEHJIw
+                </Film>
+                <Film name = "12 bến nước" note = "">
+                        https://www.youtube.com/watch?v=JV1_IO4exK8&list=PL7ID391afDfsOVBAy6UVDLmHBi5KcSt7w
+                </Film>
                 <Film name = "Sóng ngầm" note = "">
                         https://www.youtube.com/watch?v=G1czdSU9zI4&list=PLYYTUxaE9mEnPKDgrcsZ6qkk9S5EXeoEV
                 </Film>
