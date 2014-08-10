@@ -361,6 +361,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "HẠNH PHÚC CÓ THẬT" note = "">
+                        https://www.youtube.com/watch?v=FP6Z4x3qFpc&list=PLMU6jd1f_RFs1YH51BdI_0ReHumqzGdBb
+                </Film>
                 <Film name = "Hai trái tim vàng" note = "Series phim ngắn">
                         https://www.youtube.com/watch?v=e1al9_EY3nY&list=PLJt5ejarEF_5jJzvzXHdl-kxztDd5PYS0
                 </Film>
