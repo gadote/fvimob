@@ -361,7 +361,13 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
-                <Film name = "Lời thì thầm từ quá khứ" note = "Phim VN">
+                <Film name = "Vết dầu loang" note = "">
+                        https://www.youtube.com/watch?v=JZGRYwpfwus&list=PLLSEQB2RbZXbOlry6Cz5XUamBoEf_zruL
+                </Film>
+                <Film name = "Săn vàng" note = "">
+                        https://www.youtube.com/watch?v=WjBmoN2lcWo&list=PLhpfI5GY6QswjvKvFEetSbSqsz7MFoclp
+                </Film>
+                <Film name = "Lời thì thầm từ quá khứ" note = "">
                         https://www.youtube.com/watch?v=sZH_E_k4tYo&list=PLn-eNEq5hOCgDu8_lHA8jYdkGJhYMUJnC
                 </Film>
                 <Film name = "HẠNH PHÚC CÓ THẬT" note = "">
