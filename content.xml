@@ -2,7 +2,10 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Những con búp bê" note = "Phim VN">
+                <Film name = "Ngược Dòng" note = "">
+                        https://www.youtube.com/watch?v=H-_-Kku_eO4
+                </Film>
+                <Film name = "Những con búp bê" note = "">
                         https://www.youtube.com/watch?v=gJbTRJrQ9FI
                 </Film>
                 <Film name = "Căn biệt thự số 13" note = "Lâm Hùng và Vĩnh Thiên Kim [Phim ma 2014]">
