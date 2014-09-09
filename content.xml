@@ -406,6 +406,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Chào Buổi Sáng Em Yêu" note = "Phim VN">
+                        https://www.youtube.com/watch?v=lmNG7f-05IU&list=PLPHbNuGThxljWa5vHCo_6dkMmVp-seRMp
+                </Film>
                 <Film name = "Yêu Thuê" note = "">
                         https://www.youtube.com/watch?v=jwFM1klsoKw&list=PLIPjxea07B1wD9--KVjHCeEzmDyDZMkDa
                 </Film>
