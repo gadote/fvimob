@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngày Tình Yêu Lên Ngôi" note = "">
+                        https://www.youtube.com/watch?v=FNOjC7rCpBQ
+                </Film>
+                <Film name = "Như Mây Trời Bay" note = "">
+                        https://www.youtube.com/watch?v=gljZ6dJhKMM
+                </Film>
+                <Film name = "Những tia nắng ấm" note = "">
+                        https://www.youtube.com/watch?v=g6xT9ZiuR70
+                </Film>
+                <Film name = "Đường Về Nhà" note = "">
+                        https://www.youtube.com/watch?v=Xo3kN6xrxEI
+                </Film>
+                <Film name = "Ước Vọng Tuổi Trẻ" note = "">
+                        https://www.youtube.com/watch?v=-XgxWFh51MM
+                </Film>
+                <Film name = "Hôn Lễ Mẹ Kế" note = "">
+                        https://www.youtube.com/watch?v=6oATe1YFBF8
+                </Film>
                 <Film name = "Chuyện của Pao" note = "">
                         https://www.youtube.com/watch?v=t4-hbPqLDJw
                 </Film>
