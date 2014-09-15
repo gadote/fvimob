@@ -412,6 +412,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "TẠI TÔI" note = "">
+                        https://www.youtube.com/watch?v=l7jl3qkHRi4&list=PL9XlscMBKuWwv2JjVTBgm3Sn8Ev3EvTl0
+                </Film>
                 <Film name = "SÓNG TÌNH" note = "">
                         https://www.youtube.com/watch?v=45cGTqXWNLQ&list=PLxUze6YpFzjAENSEVukp4dc4TMAnsvFh8
                 </Film>
