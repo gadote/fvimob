@@ -412,6 +412,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Cô nàng nặng cân" note = "">
+                        https://www.youtube.com/watch?v=xqiU_uiBxMc&list=PLUsU7hETp_Rl3khZXTzARJ26M607_m0kg
+                </Film>
                 <Film name = "TẠI TÔI" note = "">
                         https://www.youtube.com/watch?v=l7jl3qkHRi4&list=PL9XlscMBKuWwv2JjVTBgm3Sn8Ev3EvTl0
                 </Film>
