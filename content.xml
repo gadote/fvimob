@@ -412,6 +412,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "ƠN GIỜI CẬU ĐÂY RỒI!" note = "VTV3 Show">
+                        https://www.youtube.com/watch?v=LtjHOXREOpE&list=PLDDCEKQvVq8YW9LRRpbSVFACEoVdToi40
+                </Film>
                 <Film name = "Gió làng kình" note = "">
                         https://www.youtube.com/watch?v=cvYvsEHWiOo&list=PLx-0NSudGJwKWp6VGzagC1g9HvbWJdq7E
                 </Film>
