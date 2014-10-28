@@ -412,6 +412,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Gió làng kình" note = "">
+                        https://www.youtube.com/watch?v=cvYvsEHWiOo&list=PLx-0NSudGJwKWp6VGzagC1g9HvbWJdq7E
+                </Film>
                 <Film name = "Hiệp Sĩ Giữa Đời Thường" note = "">
                         https://www.youtube.com/watch?v=1nrCUTkd09w&list=PLgBRh3ejKxgCH6lDfdKdV558rzk3HMEW6
                 </Film>
