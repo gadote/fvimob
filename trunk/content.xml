@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bàn Tay Đen" note = "Phim Cuối tuần VTV1">
+                        https://www.youtube.com/watch?v=rbVXqIl9JDo
+                </Film>
                 <Film name = "Tiếng Chuông Giữa Đêm" note = "Phim Cuối Tuần HTV9">
                         https://www.youtube.com/watch?v=1dOUrBzZXFk
                 </Film>
@@ -457,6 +460,18 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Cô hàng xóm rắc rối" note = "VTV3">
+                        https://www.youtube.com/watch?v=DHJanHPP4f8&list=PLP1krOx4GoxwsX3gX5DdAFapA41rsEU2h
+                </Film>
+                <Film name = "Đại ca U70" note = "VTV1">
+                        https://www.youtube.com/watch?v=XZnsWQnrBTA&list=PL5UBnCA5NBRdFDiDKPPsAtUjU3yin3ieO
+                </Film>
+                <Film name = "Gái Ế Kén Chồng" note = "HTV7">
+                        https://www.youtube.com/watch?v=uPnoemQfxa8&list=PL3RKoOfrygzRRIwopT0itqvqO3NOAwLi2
+                </Film>
+                <Film name = "Lời Sám Hối" note = "THVL1">
+                        https://www.youtube.com/watch?v=sx7yF5htOnU&list=PLHqqvoSEhGBjgMwmPRM7mB0Xz2zWoasxf
+                </Film>
                 <Film name = "Trái tim có nắng" note = "VTV3">
                         https://www.youtube.com/watch?v=FDO3EhGRqdw&list=PLE2-SPpXud3pmV_NKWEsl5JrscMuHOodm
                 </Film>
