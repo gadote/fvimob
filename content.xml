@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Clip nóng" note = "Phim Cuối tuần VTV1">
+                        https://www.youtube.com/watch?v=PGQUZmMJjfw
+                </Film>
+                <Film name = "Đường tới đích" note = "Phim Cuối tuần VTV1">
+                        https://www.youtube.com/watch?v=9TqOgR2Vi7o
+                </Film>
+                <Film name = "Khi vợ là hoa hậu" note = "Phim Cuối tuần VTV1">
+                        https://www.youtube.com/watch?v=_LzuX3CViWw
+                </Film>
+                <Film name = "Nụ cười của nắng" note = "Phim Cuối tuần VTV1">
+                        https://www.youtube.com/watch?v=UiDUXI8Y52Q
+                </Film>
+                <Film name = "Thuê Chồng" note = "Phim Cuối Tuần HTV9">
+                        https://www.youtube.com/watch?v=_LzuX3CViWw
+                </Film>
+                <Film name = "PĐũa Mốc Có Đôi" note = "Phim Cuối Tuần HTV9">
+                        https://www.youtube.com/watch?v=-dHec0q-oPo
+                </Film>
+                <Film name = "Xin Đừng Quên" note = "Phim Cuối Tuần HTV9">
+                        https://www.youtube.com/watch?v=5CXabX5oPrg
+                </Film>
                 <Film name = "Con Cu Ly bé nhỏ" note = "Phim Cuối tuần VTV1">
                         https://www.youtube.com/watch?v=myIKRErDzrA
                 </Film>
