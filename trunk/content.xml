@@ -460,6 +460,15 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Huyền thoại tím" note = "HTV7">
+                        https://www.youtube.com/watch?v=4l4kBmblOO0&list=PLCBzEZDa93Bs0b5gh0bJ3Dbmd5QrlQuzD
+                </Film>
+                <Film name = "Quyến Rũ" note = "HTV9">
+                        https://www.youtube.com/watch?v=DMLops4qKZo&list=PLPFce7CW2EhV_qGvgFpOs_-5EGBw-E--w
+                </Film>
+                <Film name = "Cha rơi" note = "VTV9">
+                        https://www.youtube.com/watch?v=I4WpB2Rh1iY&list=PLV9KkIw7WcJUAgukDMJ_pZQbGvudJtGHg
+                </Film>
                 <Film name = "Cô hàng xóm rắc rối" note = "VTV3">
                         https://www.youtube.com/watch?v=DHJanHPP4f8&list=PLP1krOx4GoxwsX3gX5DdAFapA41rsEU2h
                 </Film>
