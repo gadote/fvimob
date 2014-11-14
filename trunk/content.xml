@@ -460,6 +460,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Bản kê số phận" note = "VTC9">
+                        https://www.youtube.com/watch?v=SF_CKfNEeVY&list=PLVhgnGYIvh5ks7iI0CIHVAjTFvK8wBQIT
+                </Film>
                 <Film name = "Ảo Vọng" note = "HTV7">
                         https://www.youtube.com/watch?v=WZMxllkeDKo&list=PLPHbNuGThxljutvQbfau32HUKZUevv0Dk
                 </Film>
