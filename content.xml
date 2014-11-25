@@ -460,6 +460,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Bóng Giang Hồ" note = "THVL1">
+                        https://www.youtube.com/watch?v=MRzKqI7vDM4&list=PLz8rZ63rXbsqoSfmFGfTEUQcBhJvItC39
+                </Film>
                 <Film name = "Như Giọt Sương Ngủ Muộn" note = "VTC9">
                         https://www.youtube.com/watch?v=cKNAcsB0hjI&list=PLuHbJNmCAeFfcFFt2CsFSoX8R5RVcTIeV
                 </Film>
