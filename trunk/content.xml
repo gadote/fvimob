@@ -460,6 +460,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Kén Rể" note = "SCTV14">
+                        https://www.youtube.com/watch?v=_NXZ5JUn6ww&list=PLsWr3RdTaJPGYGnl8OalcfGlXZIv-hMo_
+                </Film>
                 <Film name = "Bóng Giang Hồ" note = "THVL1">
                         https://www.youtube.com/watch?v=MRzKqI7vDM4&list=PLz8rZ63rXbsqoSfmFGfTEUQcBhJvItC39
                 </Film>
