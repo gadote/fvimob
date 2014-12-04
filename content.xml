@@ -460,6 +460,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Đam mê nghiệt ngã" note = "VTV3">
+                        https://www.youtube.com/watch?v=wUFuXgO7KwM&list=PL5UBnCA5NBReB67ttwByM-Gggn1WKAlh5
+                </Film>
                 <Film name = "Kén Rể" note = "SCTV14">
                         https://www.youtube.com/watch?v=_NXZ5JUn6ww&list=PLsWr3RdTaJPGYGnl8OalcfGlXZIv-hMo_
                 </Film>
