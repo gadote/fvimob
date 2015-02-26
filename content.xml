@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Paris By Night 113 Mừng Tuổi Mẹ Disc 1 Official Sponsored for VN Tet 2015" note = "">
+                        https://www.youtube.com/watch?v=TsI2LRroKMo
+                </Film>
+                <Film name = "Paris By Night 113 Mừng Tuổi Mẹ Disc 2 Official Sponsored for VN Tet 2015" note = "">
+                        https://www.youtube.com/watch?v=P_j7zZsOD84
+                </Film>
+                <Film name = "Thuy Nga 112 Paris by night 112 - Đông - Part 1" note = "">
+                        https://www.youtube.com/watch?v=SvPf-pgy49M
+                </Film>
+                <Film name = "Thuy Nga 112 Paris by night 112 - Đông - Part 2" note = "">
+                        https://www.youtube.com/watch?v=xOxExSe_3fw
+                </Film>
                 <Film name = "GALA CƯỜI 2015" note = "VTV">
                         https://www.youtube.com/watch?v=VtGko4uOLM0
                 </Film>
@@ -484,6 +496,9 @@
 		</Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">	
+                <Film name = "Chiến Dịch Chống Ế" note = "YAN TV">
+                        https://www.youtube.com/watch?v=dEWVec3NEfY&list=PLyvrZchf1lo9UeiZcbk1SYy-GS8QDLAMc
+                </Film>
                 <Film name = "Kẻ bội tình" note = "SCTV14">
                         https://www.youtube.com/watch?v=U5sWujwd4n0&list=PLg9zaFA00V2nlrkmt4lEkoUlfDajkh36j
                 </Film>
